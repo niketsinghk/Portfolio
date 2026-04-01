@@ -53,7 +53,8 @@ Any usage, extraction, or redistribution of that avatar from my live website is 
 
 ---
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+![Protfolio-Preview]<img width="1914" height="895" alt="image" src="https://github.com/user-attachments/assets/19bc8c93-c127-4847-88c2-2f6822064bc9" />
+
 
 ---
 
